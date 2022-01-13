@@ -4,7 +4,6 @@
 
 trigger:
 - main
-- branch-pipe/*
 
 resources:
 - repo: self
